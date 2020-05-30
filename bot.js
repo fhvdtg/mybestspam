@@ -184,7 +184,7 @@ client.on('message', message => {
 if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 9000; x++) {
         message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -198,7 +198,7 @@ client2.on('message', message => {
 if (message.content === prefix+'2') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 18000; x++) {
         message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -212,7 +212,7 @@ client3.on('message', message => {
 if (message.content === prefix+'3') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 20000; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -226,7 +226,7 @@ client4.on('message', message => {
 if (message.content === prefix+'4') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 29000; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
