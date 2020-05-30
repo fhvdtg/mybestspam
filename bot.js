@@ -181,7 +181,7 @@ client6.on('message', message => {
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
 client.on('message', message => {
-if (message.content === prefix+'fast') {
+if (message.content === prefix+'f') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 300000; x++) {
@@ -195,10 +195,10 @@ if (message.content === prefix+'fast') {
 });
 
 client2.on('message', message => {
-if (message.content === prefix+'fast') {
+if (message.content === prefix+'f') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 300000; x++) {
+      for(let x = 0; x < 30000; x++) {
         message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -209,10 +209,10 @@ if (message.content === prefix+'fast') {
 });
 
 client3.on('message', message => {
-if (message.content === prefix+'fast') {
+if (message.content === prefix+'f') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 300000; x++) {
+      for(let x = 0; x < 30000; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -223,10 +223,10 @@ if (message.content === prefix+'fast') {
 });
 
 client4.on('message', message => {
-if (message.content === prefix+'fast') {
+if (message.content === prefix+'f') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 300000; x++) {
+      for(let x = 0; x < 30000; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -237,10 +237,10 @@ if (message.content === prefix+'fast') {
 });
 
 client5.on('message', message => {
-if (message.content === prefix+'fast') {
+if (message.content === prefix+'f') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 300000; x++) {
+      for(let x = 0; x < 30000; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -251,10 +251,10 @@ if (message.content === prefix+'fast') {
 });
 
 client6.on('message', message => {
-if (message.content === prefix+'fast') {
+if (message.content === prefix+'f') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 300000; x++) {
+      for(let x = 0; x < 30000; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
