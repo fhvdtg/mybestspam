@@ -30,7 +30,7 @@ message.channel.send('#daily')
   if(message.content === 'c1'){
 message.channel.send('#credits')
   }
-  if(message.content === 'r1'){
+  if(message.content === 'r'){
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p1') {
@@ -49,7 +49,7 @@ message.channel.send('#daily')
   if(message.content === 'c2'){
 message.channel.send('#credits')
   }
-   if(message.content === 'r2'){
+   if(message.content === 'r'){
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p2') {
@@ -68,7 +68,7 @@ message.channel.send('#daily')
   if(message.content === 'c3'){
 message.channel.send('#credits')
   }
-  if(message.content === 'r3'){
+  if(message.content === 'r'){
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p3') {
@@ -87,7 +87,7 @@ message.channel.send('#daily')
   if(message.content === 'c4'){
 message.channel.send('#credits')
   }
-  if(message.content === 'r4'){
+  if(message.content === 'r'){
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p4') {
@@ -106,7 +106,7 @@ message.channel.send('#daily')
   if(message.content === 'c5'){
 message.channel.send('#credits')
   }
-  if(message.content === 'r5'){
+  if(message.content === 'r'){
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p5') {
@@ -125,7 +125,7 @@ message.channel.send('#daily')
   if(message.content === 'c6'){
 message.channel.send('#credits')
   }
-  if(message.content === 'r6'){
+  if(message.content === 'r'){
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p6') {
