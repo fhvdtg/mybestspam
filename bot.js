@@ -181,11 +181,11 @@ client6.on('message', message => {
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
 client.on('message', message => {
-if (message.content === prefix+'1') {
+if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`${x}`)
+      for(let x = 0; x < 300000; x++) {
+        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -195,11 +195,11 @@ if (message.content === prefix+'1') {
 });
 
 client2.on('message', message => {
-if (message.content === prefix+'1') {
+if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`${x}`)
+      for(let x = 0; x < 300000; x++) {
+        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -209,11 +209,11 @@ if (message.content === prefix+'1') {
 });
 
 client3.on('message', message => {
-if (message.content === prefix+'1') {
+if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`${x}`)
+      for(let x = 0; x < 300000; x++) {
+        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -223,11 +223,11 @@ if (message.content === prefix+'1') {
 });
 
 client4.on('message', message => {
-if (message.content === prefix+'1') {
+if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`${x}`)
+      for(let x = 0; x < 300000; x++) {
+        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -237,11 +237,11 @@ if (message.content === prefix+'1') {
 });
 
 client5.on('message', message => {
-if (message.content === prefix+'1') {
+if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`${x}`)
+      for(let x = 0; x < 300000; x++) {
+        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -251,11 +251,11 @@ if (message.content === prefix+'1') {
 });
 
 client6.on('message', message => {
-if (message.content === prefix+'1') {
+if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`${x}`)
+      for(let x = 0; x < 300000; x++) {
+        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
