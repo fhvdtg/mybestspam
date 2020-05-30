@@ -181,7 +181,7 @@ client6.on('message', message => {
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
 client.on('message', message => {
-if (message.content === prefix+'bloods') {
+if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
@@ -195,7 +195,7 @@ if (message.content === prefix+'bloods') {
 });
 
 client2.on('message', message => {
-if (message.content === prefix+'bloods') {
+if (message.content === prefix+'2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
@@ -209,7 +209,7 @@ if (message.content === prefix+'bloods') {
 });
 
 client3.on('message', message => {
-if (message.content === prefix+'bloods') {
+if (message.content === prefix+'3') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
@@ -223,7 +223,7 @@ if (message.content === prefix+'bloods') {
 });
 
 client4.on('message', message => {
-if (message.content === prefix+'bloods') {
+if (message.content === prefix+'4') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
@@ -237,7 +237,7 @@ if (message.content === prefix+'bloods') {
 });
 
 client5.on('message', message => {
-if (message.content === prefix+'bloods') {
+if (message.content === prefix+'5') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
@@ -251,7 +251,7 @@ if (message.content === prefix+'bloods') {
 });
 
 client6.on('message', message => {
-if (message.content === prefix+'bloods') {
+if (message.content === prefix+'6') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
