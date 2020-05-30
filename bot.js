@@ -185,7 +185,7 @@ if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`[ " ${x} " ]`)
+        message.channel.send(`${x}`)
           .then(m => {
             count++;
           })
@@ -195,11 +195,11 @@ if (message.content === prefix+'1') {
 });
 
 client2.on('message', message => {
-if (message.content === prefix+'2') {
+if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`[ " ${x} " ]`)
+        message.channel.send(`${x}`)
           .then(m => {
             count++;
           })
@@ -209,11 +209,11 @@ if (message.content === prefix+'2') {
 });
 
 client3.on('message', message => {
-if (message.content === prefix+'3') {
+if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`[ " ${x} " ]`)
+        message.channel.send(`${x}`)
           .then(m => {
             count++;
           })
@@ -223,11 +223,11 @@ if (message.content === prefix+'3') {
 });
 
 client4.on('message', message => {
-if (message.content === prefix+'4') {
+if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`[ " ${x} " ]`)
+        message.channel.send(`${x}`)
           .then(m => {
             count++;
           })
@@ -237,11 +237,11 @@ if (message.content === prefix+'4') {
 });
 
 client5.on('message', message => {
-if (message.content === prefix+'5') {
+if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`[ " ${x} " ]`)
+        message.channel.send(`${x}`)
           .then(m => {
             count++;
           })
@@ -251,11 +251,11 @@ if (message.content === prefix+'5') {
 });
 
 client6.on('message', message => {
-if (message.content === prefix+'6') {
+if (message.content === prefix+'1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`[ " ${x} " ]`)
+        message.channel.send(`${x}`)
           .then(m => {
             count++;
           })
